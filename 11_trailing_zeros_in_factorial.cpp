@@ -38,3 +38,9 @@ int main() {
     obj.fun1(5);
     obj.fun2(100);
 }
+
+
+// Output
+
+// 1
+// 24
