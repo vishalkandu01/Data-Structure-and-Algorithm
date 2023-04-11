@@ -26,3 +26,9 @@ int main()
     int lcm = (a*b) / gcd(a, b);
     cout << lcm << endl;
 }
+
+
+// Output
+
+// 4 6
+// 12
